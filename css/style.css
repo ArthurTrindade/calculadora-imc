@@ -1,0 +1,12 @@
+.caixa {
+    width: 500px;
+    margin: 0 auto;
+}
+
+.valid {
+    color: green;
+}
+
+.invalid {
+    color: red;
+}
